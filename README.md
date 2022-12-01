@@ -1,4 +1,5 @@
 # random-color
+Change the page color only pressing a buttom 🦄
 
 ## Project setup
 ```
